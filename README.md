@@ -32,7 +32,7 @@ Following my passion for Data, after working on Lean Six Sigma projects in Manuf
 ## ABOUT ME
 - ✓ Corporate company : Process Engineer,Six Sigma,SQL
 - ✓ Run small business : Social Media Marketing,Self Management,Business Analysis
-- ✓ Working holiday New Zealand : Dream come true,Carpentry
+- ✓ Working holiday New Zealand : Dream come true Amazing country
 - ➡ Data Analyst : Meta Data Analyst Professional Certificate,Excel,SQL,Tableau,Python
 
 ## Education 
