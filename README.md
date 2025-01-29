@@ -1,4 +1,23 @@
+<!-- Primary Meta Tags -->
+<title>Miroslav Kopac - My GitHub profile</title>
+<meta name="title" content="Miroslav Kopac - My GitHub profile" />
+<meta name="description" content="Data Analyst Portfolio" />
 
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://github.com/kopacm" />
+<meta property="og:title" content="Miroslav Kopac - My GitHub profile" />
+<meta property="og:description" content="Data Analyst Portfolio" />
+<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content="https://github.com/kopacm" />
+<meta property="twitter:title" content="Miroslav Kopac - My GitHub profile" />
+<meta property="twitter:description" content="Data Analyst Portfolio" />
+<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+
+<!-- Meta Tags Generated with https://metatags.io -->
 
 <!--
 **kopacm/kopacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
