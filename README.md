@@ -32,10 +32,7 @@ Following my passion for Data, after working on Lean Six Sigma projects in Manuf
 #### Technical Skills: Excel,SQL,Python,Tableau,Looker Studio
 
 ## ABOUT ME
-- ✓ Corporate company : Process Engineer,Six Sigma,SQL
-- ✓ Run small business : Social Media Marketing,Self Management,Business Analysis
-- ✓ Working holiday New Zealand : Dream come true Amazing country
-- ➡ Data Analyst : Meta Data Analyst Professional Certificate,Excel,SQL,Tableau,Python
+Data Analyst transitioning from Process Engineering with 3 years of manufacturing analytics expertise, delivering €10,000+ in cost savings yearly through SQL + Excel automation and statistical optimization. Went from no English to presenting project to highest management within one year in a corporate environment. Leveraged solo travel and work across New Zealand, Europe, and Japan to build adaptability and resilience. Now focused on data-oriented work, continuously developing skills in SQL, Tableau, Excel and Python to drive insight-based decisions.
 
 ## Education 
 
