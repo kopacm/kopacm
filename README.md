@@ -31,8 +31,8 @@ Following my passion for Data, after working on Lean Six Sigma projects in Manuf
 [MySQL 2,](https://github.com/kopacm/SQL-Questions) 
 [MySQL & Looker Studio,](https://github.com/kopacm/Pizza_Project) 
 [SQL Data warehouse project](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)
-[Excel,](https://github.com/kopacm/Excel) 
-[Excel Dashboard](https://github.com/kopacm/Excel-Dashboard/blob/main/README.md)
+- [Excel,](https://github.com/kopacm/Excel) 
+- [Excel Dashboard](https://github.com/kopacm/Excel-Dashboard/blob/main/README.md)
 * ✉️  You can contact me at [kopacmiroslav@gmail.com](mailto:kopacmiroslav@gmail.com)
 * 🌱  I’m currently learning for the Tableau certification
 
