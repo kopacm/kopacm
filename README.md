@@ -26,8 +26,8 @@ Following my passion for Data, after working on Lean Six Sigma projects in Manuf
 
 * 🌍  I'm moving to Germany after spending 1 year in Japan.
 * 🖥️  See my portfolio projects 
-[Tableau,](http://github.com/kopacm/Tableau-Sales-Project) 
-[MySQL 1,](https://github.com/kopacm/Amazon-SQL-Problems) 
+- [Tableau,](http://github.com/kopacm/Tableau-Sales-Project) 
+- [MySQL 1,](https://github.com/kopacm/Amazon-SQL-Problems) 
 [MySQL 2,](https://github.com/kopacm/SQL-Questions) 
 [MySQL & Looker Studio,](https://github.com/kopacm/Pizza_Project) 
 [SQL Data warehouse project](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)
@@ -36,7 +36,7 @@ Following my passion for Data, after working on Lean Six Sigma projects in Manuf
 * ✉️  You can contact me at [kopacmiroslav@gmail.com](mailto:kopacmiroslav@gmail.com)
 * 🌱  I’m currently learning for the Tableau certification
 
-#### Technical Skills: Excel,SQL,Python,Tableau,Looker Studio
+#### Technical Skills: Excel,SQL,Tableau,Python
 
 ## ABOUT ME
 Data Analyst transitioning from Process Engineering with 3 years of manufacturing analytics expertise, delivering €10,000+ in cost savings yearly through SQL + Excel automation and statistical optimization. Went from no English to presenting project to highest management within one year in a corporate environment. Leveraged solo travel and work across New Zealand, Europe, and Japan to build adaptability and resilience. Now focused on data-oriented work, continuously developing skills in SQL, Tableau, Excel and Python to drive insight-based decisions.
