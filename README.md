@@ -2,7 +2,7 @@
 
 <!-- Meta Tags Generated with https://metatags.io -->
 
-# Hi there, I'm a Data Analyst & Analytics Engineer 👋
+# Hi there, I'm a Data Analyst 👋
 
 * 🌍  I'm moving to Germany after spending 1 year in Japan and I'm open to all new challenges.
   
