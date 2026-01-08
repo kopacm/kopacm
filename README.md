@@ -78,7 +78,7 @@
 |---|---|---|
 |**[Amazon SQL Problems](https://github.com/kopacm/Amazon-SQL-Problems)**|Solved 10 real-world e-commerce problems including CLTV, AOV, and shipping delay analysis using `LAG` and Window Functions.|MySQL, Navicat|
 |**[Linear Programming](https://github.com/kopacm/Excel)**|Solved optimization tasks for marketing campaigns, production logistics, and HR planning to maximize profit/minimize cost.|Excel Solver|
-|**[StrataScratch Solutions](https://github.com/kopacm/Amazon-SQL-Problems)**|Collection of solved interview questions focusing on complex joins and retention metrics.|SQL|
+|**[StrataScratch Solutions](https://github.com/kopacm/SQL-Questions)**|Collection of solved interview questions focusing on complex joins and retention metrics.|SQL|
 
 ---
 
