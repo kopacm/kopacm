@@ -2,52 +2,97 @@
 
 <!-- Meta Tags Generated with https://metatags.io -->
 
-<!--
-**kopacm/kopacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm a Data Analyst & Analytics Engineer 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi 👋 My name is Miroslav Kopac
-===============================
-
-Data Analyst
--------------------
-
-Following my passion for Data, after working on Lean Six Sigma projects in Manufacturing sector as Process Engineer.
-
-* 🌍  I'm moving to Germany after spending 1 year in Japan.
-* 🖥️  See my portfolio projects 
-- [Tableau,](http://github.com/kopacm/Tableau-Sales-Project) 
-- [MySQL 1,](https://github.com/kopacm/Amazon-SQL-Problems) 
-[MySQL 2,](https://github.com/kopacm/SQL-Questions) 
-[MySQL & Looker Studio,](https://github.com/kopacm/Pizza_Project) 
-[SQL Data warehouse project](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)
-[SQL Data warehouse Insights Analysis](https://github.com/kopacm/SQL-Data-Analysis-Project/blob/main/README.md#sql-data-analysis-portfolio-driving-23m-revenue-growth-through-data)
-- [Excel,](https://github.com/kopacm/Excel) 
-- [Excel Dashboard](https://github.com/kopacm/Excel-Dashboard/blob/main/README.md)
-* ✉️  You can contact me at [kopacmiroslav@gmail.com](mailto:kopacmiroslav@gmail.com)
+* 🌍  I'm moving to Germany after spending 1 year in Japan and I'm open to all new challenges.
   
+> **Turning raw data into actionable business strategies.**
+> 
+> I specialize in building robust data architectures, designing intuitive dashboards, and uncovering revenue opportunities through advanced SQL analysis.
 
-#### Technical Skills: Excel,SQL,Tableau,Python
+---
 
-## ABOUT ME
-Data Analyst transitioning from Process Engineering with 3 years of manufacturing analytics expertise, delivering €10,000+ in cost savings yearly through SQL + Excel automation and statistical optimization. Went from no English to presenting project to highest management within one year in a corporate environment. Leveraged solo travel and work across New Zealand, Europe, and Japan to build adaptability and resilience. Now focused on data-oriented work, continuously developing skills in SQL, Tableau, Excel and Python to drive insight-based decisions.
+## 🛠️ Tech Stack & Skills
 
-## Education 
+|**Domain**|**Tools & Technologies**|
+|---|---|
+|**Data Analysis (SQL)**|MySQL, SQL Server (2016+), Navicat, Window Functions, CTEs|
+|**Data Engineering**|ETL Processes, Data Modeling (Star Schema), Medallion Architecture, Normalization|
+|**Visualization**|**Tableau**, **Looker Studio**, **Excel** (Advanced Formulas, VBA, PivotTables)|
+|**Optimization**|Linear Programming, Solver, Inventory Management|
+|**Tools**|Git/GitHub, Obsidian, Draw.io, Quick DBD|
 
-- Bachelor of Applied Science - BASc, Manufacturing Engineer 
-- Six Sigma Green Belt certification
-- Meta Data Analyst Specialization certification
+---
 
-### Socials
+## 🚀 Featured Projects
+
+### 1. 🚴 [SQL Data Analysis: Driving $2.3M Revenue Growth](https://github.com/kopacm/SQL-Data-Analysis-Project/blob/main/README.md)
+
+**Focus:** _Business Strategy & Inventory Optimization_
+
+- **Challenge:** A cycling retailer faced declining revenue despite high store traffic.
+    
+- **Solution:** Analyzed 4 years of sales data using complex SQL queries. Identified that top-selling products were out of stock during peak seasons.
+    
+- **Impact:** Uncovered an **$897k revenue gap** and recommended a 20% safety stock increase to capture missed demand.
+    
+- **Tech:** `SQL Server` `Inventory Analysis` `Opportunity Cost Calculation`
+    
+
+### 2. 🏗️ [End-to-End Data Warehouse Construction](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)
+
+**Focus:** _Data Engineering & ETL_
+
+- **Objective:** Consolidate ERP and CRM data into a single source of truth for analytics.
+    
+- **Solution:** Designed a **Medallion Architecture** (Bronze/Silver/Gold) and a **Star Schema** data mart. Implemented strict snake_case naming conventions and documented ETL protocols.
+    
+- **Tech:** `SQL Server` `ETL` `Data Modeling` `Medallion Architecture`
+    
+
+### 3. 📊 [Tableau Sales & Customer Dashboards](https://github.com/kopacm/Tableau-Sales-Project/blob/main/README.md)
+
+**Focus:** _Data Visualization & UI Design_
+
+- **Objective:** Enable stakeholders to track YoY performance and customer segments.
+    
+- **Solution:** Built dynamic dashboards with parameter-based year selection, dual-axis charts, and custom calculated fields (`WINDOW_AVG`, `FIXED`).
+    
+- **Tech:** `Tableau` `Calculated Fields` `Dashboard Design`
+    
+
+---
+
+## 📂 Project Catalog
+
+### 📉 Business Intelligence & Visualization
+
+|**Project**|**Description**|**Tools**|
+|---|---|---|
+|**[B&J Biscuit Dashboard](https://github.com/kopacm/Excel-Dashboard/blob/main/README.md)**|Interactive dashboard analyzing revenue, demographics, and profitability. Features dynamic filtering and `DATEDIF`/`TEXTJOIN` formulas.|Excel, PivotTables|
+|**[Pizza Store Analytics](https://github.com/kopacm/Pizza_Project)**|Full-stack data project: Designed a relational DB, generated mock data, wrote SQL queries, and visualized results in Looker Studio.|MySQL, Looker, QuickDBD|
+
+### 🧮 Advanced Analytics & Optimization
+
+|**Project**|**Description**|**Tools**|
+|---|---|---|
+|**[Amazon SQL Problems](https://github.com/kopacm/Amazon-SQL-Problems)**|Solved 10 real-world e-commerce problems including CLTV, AOV, and shipping delay analysis using `LAG` and Window Functions.|MySQL, Navicat|
+|**[Linear Programming](https://github.com/kopacm/Excel)**|Solved optimization tasks for marketing campaigns, production logistics, and HR planning to maximize profit/minimize cost.|Excel Solver|
+|**[StrataScratch Solutions](https://github.com/kopacm/Amazon-SQL-Problems)**|Collection of solved interview questions focusing on complex joins and retention metrics.|SQL|
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Applied Science - BASc, Manufacturing Engineer**
+    
+- **Six Sigma Green Belt Certification**
+    
+- **Meta Data Analyst Specialization Certification**
+    
+
+---
+
+### 🌐 Connect with me
 
 <p align="left"> <a href="https://www.linkedin.com/in/in/miroslavkopac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
