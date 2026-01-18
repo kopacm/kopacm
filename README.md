@@ -32,7 +32,7 @@ I recently completed an end-to-end data initiative, demonstrating the full lifec
 **🏗️ [End-to-End Data Warehouse Construction](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)**
 * **The Challenge:** Sales data was fragmented and unoptimized for reporting.
 * **The Solution:** Designed and built a modern Data Warehouse (Bronze/Silver/Gold architecture) to serve as a single source of truth.
-* **Tech Stack:** `SQL Server`, `T-SQL`, `ETL Pipelines`, `Star Schema Design`.
+* **Tech Stack:** `SQL Server` `Data Modeling` `Medallion Architecture`  `ETL Pipelines` `Star Schema Design`.
 
 ### **Phase 2: The Insight (Data Analytics)**
 *Leveraging the warehouse above, I performed a deep-dive customer retention analysis.*
