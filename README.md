@@ -28,23 +28,23 @@
 
 I recently completed an end-to-end data initiative, demonstrating the full lifecycle of data—from engineering the infrastructure to delivering executive-level strategy.
 
-### **Phase 1: The Build (Data Engineering)**
-**🏗️ [End-to-End Data Warehouse Construction](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)**
+#### **Phase 1: The Build (Data Engineering)**
+### 1.1 🏗️ [End-to-End Data Warehouse Construction](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)
 * **The Challenge:** Sales data was fragmented and unoptimized for reporting.
 * **The Solution:** Designed and built a modern Data Warehouse (Bronze/Silver/Gold architecture) to serve as a single source of truth.
 * **Tech Stack:** `SQL Server` `Data Modeling` `Medallion Architecture`  `ETL Pipelines` `Star Schema Design`.
 
-### **Phase 2: The Insight (Data Analytics)**
+#### **Phase 2: The Insight (Data Analytics)**
 *Leveraging the warehouse above, I performed a deep-dive customer retention analysis.*
 
-**🚴 [SQL Data Analysis: Churn Analysis](https://github.com/kopacm/SQL-Data-Analysis-Project/blob/main/README.md)**
+### 1.2 🚴 [SQL Data Analysis: Churn Analysis](https://github.com/kopacm/SQL-Data-Analysis-Project/blob/main/README.md)
 * **The Diagnosis:** Identified a **$907k revenue leak** driven specifically by "One-and-Done" buyers in the US market.
 * **The Pivot:** Disproved a popular acquisition hypothesis ("The On-Ramp"), showing it had a **0% conversion rate**, saving wasted ad spend.
 * **The Solution:** Developed **"The Bridge Strategy"**—using SQL cohort analysis to prove that cross-selling accessories increases customer retention by **1.57x**.
 * **Tech Stack:** `SQL (Window Functions, CTEs)`, `Cohort Analysis`, `Customer Segmentation`, `Hypothesis Testing`.
 
 
-### 3. 📊 [Tableau Sales & Customer Dashboards](https://github.com/kopacm/Tableau-Sales-Project/blob/main/README.md)
+### 2. 📊 [Tableau Sales & Customer Dashboards](https://github.com/kopacm/Tableau-Sales-Project/blob/main/README.md)
 
 **Focus:** _Data Visualization & UI Design_
 
