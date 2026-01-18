@@ -26,29 +26,23 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🚴 [SQL Data Analysis: Driving $2.3M Revenue Growth](https://github.com/kopacm/SQL-Data-Analysis-Project/blob/main/README.md)
+I recently completed an end-to-end data initiative, demonstrating the full lifecycle of data—from engineering the infrastructure to delivering executive-level strategy.
 
-**Focus:** _Business Strategy & Inventory Optimization_
+### **Phase 1: The Build (Data Engineering)**
+**🏗️ [End-to-End Data Warehouse Construction](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)**
+* **The Challenge:** Sales data was fragmented and unoptimized for reporting.
+* **The Solution:** Designed and built a modern Data Warehouse (Bronze/Silver/Gold architecture) to serve as a single source of truth.
+* **Tech Stack:** `SQL Server`, `T-SQL`, `ETL Pipelines`, `Star Schema Design`.
 
-- **Challenge:** A cycling retailer faced declining revenue despite high store traffic.
-    
-- **Solution:** Analyzed 4 years of sales data using complex SQL queries. Identified that top-selling products were out of stock during peak seasons.
-    
-- **Impact:** Uncovered an **$897k revenue gap** and recommended a 20% safety stock increase to capture missed demand.
-    
-- **Tech:** `SQL Server` `Inventory Analysis` `Opportunity Cost Calculation`
-    
+### **Phase 2: The Insight (Data Analytics)**
+*Leveraging the warehouse above, I performed a deep-dive customer retention analysis.*
 
-### 2. 🏗️ [End-to-End Data Warehouse Construction](https://github.com/kopacm/sql-data-warehouse-portfolio-project/blob/main/README.md)
+**🚴 [SQL Data Analysis: Churn Analysis](https://github.com/kopacm/SQL-Data-Analysis-Project/blob/main/README.md)**
+* **The Diagnosis:** Identified a **$907k revenue leak** driven specifically by "One-and-Done" buyers in the US market.
+* **The Pivot:** Disproved a popular acquisition hypothesis ("The On-Ramp"), showing it had a **0% conversion rate**, saving wasted ad spend.
+* **The Solution:** Developed **"The Bridge Strategy"**—using SQL cohort analysis to prove that cross-selling accessories increases customer retention by **1.57x**.
+* **Tech Stack:** `SQL (Window Functions, CTEs)`, `Cohort Analysis`, `Customer Segmentation`, `Hypothesis Testing`.
 
-**Focus:** _Data Engineering & ETL_
-
-- **Objective:** Consolidate ERP and CRM data into a single source of truth for analytics.
-    
-- **Solution:** Designed a **Medallion Architecture** (Bronze/Silver/Gold) and a **Star Schema** data mart. Implemented strict snake_case naming conventions and documented ETL protocols.
-    
-- **Tech:** `SQL Server` `ETL` `Data Modeling` `Medallion Architecture`
-    
 
 ### 3. 📊 [Tableau Sales & Customer Dashboards](https://github.com/kopacm/Tableau-Sales-Project/blob/main/README.md)
 
